@@ -33,6 +33,3 @@ Salida observada (extracto):
 - Notificación (email por consola)
 - Reporte generado
 
-## Formato de entrega
-- Opción repositorio: estos archivos son suficientes para publicar en GitHub.
-- Opción Markdown: `SUBMISSION.md` contiene el material completo en un único documento.
